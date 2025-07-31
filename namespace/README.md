@@ -51,4 +51,4 @@ $ docker kill namespace
 ```
 
 ### License
-MIT License - see [LICENSE](LICENSE) for full text.
+MIT License - see [LICENSE](./../LICENSE) for full text.
